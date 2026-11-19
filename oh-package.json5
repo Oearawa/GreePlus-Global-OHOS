@@ -1,0 +1,11 @@
+{
+  "modelVersion": "5.1.0",
+  "name": "greeplus-ohos",
+  "version": "1.0.0",
+  "description": "Gree+ Overseas native HarmonyOS NEXT air conditioner controller",
+  "main": "",
+  "author": "GreePlusOHOS",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {}
+}

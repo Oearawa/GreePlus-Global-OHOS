@@ -1,0 +1,17 @@
+{
+  "insightIntents": [
+    {
+      "intentName": "ControlAcDevice",
+      "domain": "SmartHomeDomain",
+      "intentVersion": "1.0.1",
+      "srcEntry": "./ets/service/AcIntentExecutor.ets",
+      "uiAbility": {
+        "ability": "EntryAbility",
+        "executeMode": [
+          "background",
+          "foreground"
+        ]
+      }
+    }
+  ]
+}

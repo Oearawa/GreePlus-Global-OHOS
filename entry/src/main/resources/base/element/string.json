@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Gree+ 海外版格力空调原生鸿蒙控制器"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Gree+ 海外智控入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Gree+ 智控"
+    }
+  ]
+}

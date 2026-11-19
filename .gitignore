@@ -1,0 +1,29 @@
+# HarmonyOS / DevEco Studio build & cache outputs
+build/
+entry/build/
+.hvigor/
+oh_modules/
+entry/oh_modules/
+.cxx/
+*.hap
+*.app
+*.har
+*.hsp
+*.pack
+
+# IDE & OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Signing certificates & local environment config
+*.p12
+*.cer
+*.p7b
+*.csr
+*.keystore
+*.jks
+local.properties
+signing/

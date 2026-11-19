@@ -1,0 +1,24 @@
+{
+  "forms": [
+    {
+      "name": "AcWidgetCard",
+      "displayName": "空调控制",
+      "description": "快捷查看室内温度、开关空调与调节温度",
+      "src": "./ets/widget/pages/AcWidgetCard.ets",
+      "uiSyntax": "arkts",
+      "window": {
+        "designWidth": 720,
+        "autoDesignWidth": true
+      },
+      "isDefault": true,
+      "updateEnabled": true,
+      "scheduledUpdateTime": "10:30",
+      "updateDuration": 1,
+      "defaultDimension": "2*2",
+      "supportDimensions": [
+        "2*2",
+        "2*4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "GreePlusOHOS entry module",
+  "main": "",
+  "author": "GreePlusOHOS",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@ohos/mqtt": "^2.0.34"
+  },
+  "devDependencies": {},
+  "dynamicDependencies": {}
+}
